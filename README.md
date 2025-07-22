@@ -1,2 +1,0 @@
-# wordcounter
-wordcounter web app
